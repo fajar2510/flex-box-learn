@@ -3,7 +3,7 @@ import FlexboxPlayground from "@/components/FlexboxPlayground";
 export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-indigo-50 to-purple-50 p-4">
-      <div className="max-w-8xl px-10 mx-auto mt-4">
+      <div className="max-w-8xl px-8 mx-auto mt-2">
         <h1 className="text-4xl font-bold text-center text-indigo-900 mb-1.5">
           Belajar FlexBox Interaktif
         </h1>
